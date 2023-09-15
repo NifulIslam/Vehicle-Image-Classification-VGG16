@@ -22,7 +22,7 @@
 
 
 # Image Classifier
-This image classifier can classify 6 tyepes of local vehicles. The types are: <br>
+This image classifier can classify 6 types of local vehicles. The types are: <br>
 1. Bike
 2. Truck
 3. Bicycle
