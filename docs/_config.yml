@@ -3,7 +3,8 @@ plugins:
 - jekyll-remote-theme
 
 title: Vehicle Classifier
-description: This classifier can classify ten types of paintings. 
+description: This classifier can classify six types of vecicles. 
 
 author:
   name: Niful Islam
+
