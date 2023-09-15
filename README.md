@@ -27,6 +27,10 @@ Here are the benchmarking results for the proposed VGG16 and ConvNext Tiny model
 | Proposed VGG16  | 0.6756   | 0.7504    | 0.6756  | 0.6791   | 0.6240  |
 | ConvNext Tiny   | 0.6944   | 0.7480    | 0.6944  | 0.7079   | 0.6361  |
 
+## Confusion Matrix
+
+![Confusion Matrix](https://github.com/NifulIslam/Vehicle-Image-Classification-VGG16/blob/main/Images/ConMat24.png)
+
 ## Dataset
 
 Initially, there were 14 types of images in the dataset. Due to the large size, only six types of vehicles were collected for this project (size 7554).
